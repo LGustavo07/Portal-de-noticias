@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --brand-color-light: #60a5fa;
+  --brand-color-dark: #1d4ed8;
+  --bg-color: #0f172a;
+  --stroke-color: #1e293b;
+  --text-color-primary: #F1F5F;
+  --text-color-secondary: #cbd5e1;
+
+  --font-family: "Archivo", sans-serif;
+  --heading1: 24px/135% var(--font-family);
+  --heading2: 16px/140% var(--font-family);
+  --heading3: 14px/140% var(--font-family);
+  --span: 14px/145% var(--font-family);
+  --span: 14px/160% var(--font-family);
+}
